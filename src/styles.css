@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;1,300&family=Zen+Loop:ital@0;1&display=swap");
+:root {
+  --primary-color: #93c5fd;
+}
+.App {
+  font-family: "Titillium Web", sans-serif;
+  text-align: center;
+  font-size: larger;
+}
+body {
+  background-color: var(--primary-color);
+}
